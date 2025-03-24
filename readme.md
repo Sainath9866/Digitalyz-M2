@@ -1,5 +1,5 @@
 # Course Scheduling System
-visit : https://github.com/Sainath9866/Digitalyz-M2 to get more screenshots 
+visit live demo : https://digitalyz-m2.streamlit.app/
 
 A sophisticated course scheduling system that optimizes class assignments while considering various constraints using linear programming. The system creates efficient schedules for students, teachers, and rooms across multiple terms.
 
